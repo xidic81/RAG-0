@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.cache/
+data/extract_cache/
+.pytest_cache/
+uv.lock.bak
